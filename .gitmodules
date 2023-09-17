@@ -3,4 +3,4 @@
 	url = https://ghproxy.com/https://github.com/jrl-umi3218/jrl-cmakemodules
 [submodule "models/example-robot-data"]
 	path = models/example-robot-data
-	url = https://ghproxy.com/https://github.com/Gepetto/example-robot-data.git
+	url = https://ghproxy.com/https://github.com/zy12347/example-robot-data.git
